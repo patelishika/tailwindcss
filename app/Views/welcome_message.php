@@ -7,6 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h1 class="bg-yellow-500 text-3xl">Hello WOrld</h1>
+    <h1 class="bg-yellow-500 text-3xl">Hello PHP</h1>
 </body>
 </html>
